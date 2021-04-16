@@ -1,0 +1,152 @@
+
+.bangladesh {
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    margin: 100px auto;
+    overflow: hidden;
+}
+.circle {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+margin: 24px auto 0px;
+}
+.varat {
+    width: 500px;
+    height: 100 px;
+    background-color: white;
+    text-align: center;
+    border-top: 100px solid coral;
+    border-bottom: 100px solid green;
+    margin-top: 100px auto;
+}
+* {
+    margin: 0px;
+}
+.pakistan {
+
+    width: 400px;
+    height: 300px;
+    background-color: green;
+    text-align: center;
+    border-left: 100px solid white;
+margin: 100px auto;
+outline: 1px solid gray ;
+}
+.pakistan img {
+    margin-top: 100px;
+}
+.maldives {
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    border: 100px solid red;
+    text-align: center;
+    margin: 100px auto;
+}
+.maldives img {
+margin-top:34px;
+}
+.sweden {
+    width: 500px;
+    height: 300px;
+    background-color: royalblue;
+    margin: 100px auto;
+overflow: hidden;
+}
+
+.yellowver {
+width: 60px;
+height: 300px;
+background-color: yellow;
+margin-left: 150px;
+overflow: hidden;
+}
+.yellowhor {
+    width: 500px;
+    height: 60px;
+    background-color: yellow;
+    border: 120px auto 0px;
+}
+.canada {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-left: 150px solid red;
+    border-right: 150px solid red;
+    text-align: center;
+margin-left: 100px;
+}
+.canada img {
+margin: 23px auto 0px;
+
+}
+.switzerland {
+    width: 500px;
+    height: 300px;
+    background-color: red;
+    text-align: center;
+margin: 150px auto 0px;
+
+}
+.switzerland img {
+    width: 200px;
+    height: 200px;
+margin: 50px auto 0px;
+
+}
+.bangkok {
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    margin : 100px auto 0px;
+    border-top: 50px solid white;
+    border-bottom: 50px solid white;
+    outline-width: 50px;
+    outline-style: solid;
+    outline-color: red white;
+}
+.france {
+    width: 165px;
+    height: 300px;
+    background-color: white;
+    margin: 100px auto 0px;
+    border-left: 165px solid blue;
+    border-right: 165px solid red;
+}
+.oman {
+    width: 380px;
+    height: 100px;
+    background-color: red;
+    margin: 100px auto 0px;
+    border-top: 100px solid white;
+    border-bottom: 100px solid green;
+    border-left: 120px solid red;
+}
+.singapore {
+    width: 500px;
+    height: 150px;
+    background-color: red;
+    margin: 200px auto 0px;
+    border-bottom: 150px solid white;
+outline: 1px solid gray;
+}
+.kuwait {
+    width: 380px;
+    height: 100px;
+    background-color:white;
+    margin: 100px auto 0px;
+    border-top: 100px solid green;
+    border-bottom: 100px solid red; 
+    border-left: 120px solid black;
+}
+.germany {
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    border-top: 100px solid black;
+    border-bottom: 100px solid yellow;
+margin: 100px auto 0px;
+}
